@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MobileTechnology</string>
+    <string name="txtView_Reg_Title">User Registration</string>
+    <string name="txt_User_Email">Enter Email</string>
+    <string name="txt_Password">Enter Password</string>
+    <string name="btn_Reg">Register</string>
+    <string name="txtView_Already_Registered">Already Registered?</string>
+    <string name="txtView_Login_Title">User Login</string>
+    <string name="txt_Login_Email">Enter Email</string>
+    <string name="txt_Login_Password">Enter Password</string>
+    <string name="btn_Login">Login</string>
+    <string name="txtView_Signup">Don\'t have an account? Sign up here!</string>
+    <string name="txtView_Pro_Title">Large Text</string>
+    <string name="btn_Logout">Logout</string>
+    <string name="txt_Shake">Shake to Discover</string>
+    <string name="btn_forgot_password">Reset Password</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="txt_SearchEg">Example London, GB</string>
+</resources>
